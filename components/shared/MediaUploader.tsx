@@ -53,7 +53,7 @@ const MediaUploader = ({
 
   return (
     <CldUploadWidget
-      uploadPreset="jsm_imaginify"
+      uploadPreset="hq71xcjv"
       options={{
         multiple: false,
         resourceType: "image",
